@@ -7,7 +7,6 @@
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Desenvolvedora](#desenvolvedora)
 
 # Descrição do projeto
 
@@ -29,6 +28,5 @@ Neste projeto exercitei os conceitos aprendidos no curso de Java (Orientação a
 - Java
 - Eclipse IDE
 
-# Desenvolvedora
 
-Iara Varjão - Julho/2023
+<h4> :pen: Iara Varjão - Julho/2023</h4>
